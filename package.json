@@ -1,0 +1,9 @@
+{
+  "name": "alfa-netlify-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Consent-based browser anti-loss location sharing starter for Netlify",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
